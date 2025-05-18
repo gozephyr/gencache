@@ -4,7 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/gozephyr/gencache?status.svg)](https://godoc.org/github.com/gozephyr/gencache)
 [![License](https://img.shields.io/github/license/gozephyr/gencache)](https://github.com/gozephyr/gencache/blob/main/LICENSE)
 [![Go Version](https://img.shields.io/badge/Go-1.18%2B-blue)](https://golang.org)
-[![Build Status](https://github.com/gozephyr/gencache/actions/workflows/go.yml/badge.svg)](https://github.com/gozephyr/gencache/actions/workflows/go.yml)
+[![Build Status](https://github.com/gozephyr/gencache/actions/workflows/ci.yml/badge.svg)](https://github.com/gozephyr/gencache/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/gozephyr/gencache/branch/main/graph/badge.svg)](https://codecov.io/gh/gozephyr/gencache)
 [![Release](https://img.shields.io/github/v/release/gozephyr/gencache?include_prereleases)](https://github.com/gozephyr/gencache/releases)
 
