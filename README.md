@@ -1,5 +1,13 @@
 # GenCache
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/gozephyr/gencache)](https://goreportcard.com/report/github.com/gozephyr/gencache)
+[![GoDoc](https://godoc.org/github.com/gozephyr/gencache?status.svg)](https://godoc.org/github.com/gozephyr/gencache)
+[![License](https://img.shields.io/github/license/gozephyr/gencache)](https://github.com/gozephyr/gencache/blob/main/LICENSE)
+[![Go Version](https://img.shields.io/badge/Go-1.18%2B-blue)](https://golang.org)
+[![Build Status](https://github.com/gozephyr/gencache/actions/workflows/go.yml/badge.svg)](https://github.com/gozephyr/gencache/actions/workflows/go.yml)
+[![Coverage](https://codecov.io/gh/gozephyr/gencache/branch/main/graph/badge.svg)](https://codecov.io/gh/gozephyr/gencache)
+[![Release](https://img.shields.io/github/v/release/gozephyr/gencache?include_prereleases)](https://github.com/gozephyr/gencache/releases)
+
 A high-performance, generic caching library with support for multiple storage backends, batch operations, compression, and object pooling.
 
 ## Summary
